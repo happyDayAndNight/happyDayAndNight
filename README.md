@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @happyDayAndNight
 - 👀 I’m interested in front-end
-- 🌱 I’m currently learning nodejs
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me mailto: happyforeveron@gmail.com
 
